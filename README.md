@@ -1,4 +1,4 @@
-# ToDoOrganizerRepo
+# ToDoOrganizer By Alexander Le
  My first Android app that used to connect to a Firebase database until it was deactivated (Update, it is now activated at https://studentprojectfailure3.firebaseio.com/).  
  
  What it can do: 
