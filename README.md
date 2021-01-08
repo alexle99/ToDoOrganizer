@@ -1,5 +1,5 @@
 # ToDoOrganizerRepo
- My first Android app that used to connect to a Firebase database until it was deactivated. 
+ My first Android app that used to connect to a Firebase database until it was deactivated (Update, it is now activated at https://studentprojectfailure3.firebaseio.com/).  
  
  What it can do: 
  - post messages to a list
