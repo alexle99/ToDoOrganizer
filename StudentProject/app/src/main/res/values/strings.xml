@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentProject</string>
+    <string name="name">Name of the student</string>
+    <string name="class_of_student">class_of_student</string>
+    <string name="send">send</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0</string>
+    <string name="vote">vote</string>
+</resources>
